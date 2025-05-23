@@ -1,7 +1,8 @@
 {
   "packs": [
     "neofox.json",
-    "neocat.json"
+    "neocat.json",
+    "kirby.json"
   ],
   "homeserver_url": "https://chat.lowfla.me"
 }
